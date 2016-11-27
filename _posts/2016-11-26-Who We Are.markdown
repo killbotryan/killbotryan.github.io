@@ -2,6 +2,6 @@
 layout: post
 title:  "Who We Are"
 date:   2016-11-26 23:24:43 -0500
-categories: 
+categories: FAQ
 ---
  We are Yenor's worst friends.
