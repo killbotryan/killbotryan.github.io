@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "his Interests"
+title:  "His Interests"
 date:   2016-11-26 23:24:43 -0500
 categories: Why Him
 
