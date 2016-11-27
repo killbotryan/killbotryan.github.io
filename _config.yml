@@ -9,7 +9,7 @@
 title: Yenor Needs Love Fund
 email: yenorneedslovefund@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Here at Yenor Needs Love Fund we are passionate about finding a love for Yenor. This way he can retire fomr meming.
+  Here at Yenor Needs Love Fund we are passionate about finding a love for Yenor. This way he can retire form meming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yenorneedslovefund.com" # the base hostname & protocol for your site
 twitter_username: YenorLover
