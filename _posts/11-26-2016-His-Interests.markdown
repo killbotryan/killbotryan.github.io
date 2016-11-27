@@ -8,7 +8,7 @@ categories: Why Him
 
  Here is a list of the sexy things Yenor does:
   
-  He enjoys short bike rides.
+  He enjoys short bike rides. He always eats before hand.
   
   Deeply thinking about if his noose will work this time on life.
   
