@@ -1,4 +1,4 @@
-s---
+---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
@@ -18,7 +18,7 @@ $text-color:       chocolate;
 $background-color: white;
 $brand-color:      lightseagreen;
 
-$grey-color:       #828282;
+$grey-color:       grey;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
